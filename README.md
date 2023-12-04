@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Data Analyst on Upwork**
 
-- 🌱 I’m currently learning **Azure DataBricks**
+- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
