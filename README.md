@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farzeena P A</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working as **Data Analyst on Upwork**
+- 🔭 I’m currently working as **Freelance Data Analyst on Upwork**
 
 - 🌱 I’m currently learning **Langchain**
 
