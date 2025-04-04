@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Farzeena P A</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working as **Freelance Data Analyst on Upwork**
+- 🔭 I’m currently working as **Data Analyst at Schoolnet India Private Limited**
 
-- 🌱 I’m currently learning **Langchain**
-
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
+- 🌱 I’m currently learning **Financial Modelling and Valuation Analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/farzeenaayub](https://www.datascienceportfol.io/farzeenaayub)
 
-- 💬 Ask me about **Data Science**
+- 💬 Talk to me about **Finance, Business, Data Science and AI**
 
 - 📫 How to reach me **farzinaayub266@gmail.com**
 
