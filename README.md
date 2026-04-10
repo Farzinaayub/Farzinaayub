@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working as **Data Analyst at Schoolnet India Private Limited**
 
-- 🌱 I’m currently learning **Financial Modelling and Valuation Analysis**
-
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/farzeenaayub](https://www.datascienceportfol.io/farzeenaayub)
-
 - 💬 Talk to me about **Finance, Business, Data Science and AI**
 
 - 📫 How to reach me **farzinaayub266@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFuTZwnJLQ/LRDivx_hCQKutAsUsJ8emg/view?utm_content=DAFuTZwnJLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFuTZwnJLQ/LRDivx_hCQKutAsUsJ8emg/view?utm_content=DAFuTZwnJLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
