@@ -21,8 +21,6 @@ I turn large operational and learning datasets into decision-ready reporting. Cu
 | [Customer Segmentation](https://github.com/Farzinaayub/Customer_Segmentation) | K-Means clustering to segment customers for targeted strategy | Python, scikit-learn |
 | [Multi-Agent Blog Writer](https://github.com/Farzinaayub/Multi-Agent-Blog-Writer) | Research → plan → draft → summarize pipeline using specialized AI agents | Python, CrewAI |
 
-*(Add links once new repos are live — see checklist below)*
-
 ---
 
 ### 🧰 Tools & Technologies
@@ -34,7 +32,3 @@ I turn large operational and learning datasets into decision-ready reporting. Cu
 **Business Systems:** Odoo CRM · Microsoft Business Central ERP
 
 ---
-
-### 📈 GitHub Stats
-
-![Farzeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farzinaayub&show_icons=true&theme=default&hide_border=true)
