@@ -17,7 +17,7 @@ I turn large operational and learning datasets into decision-ready reporting. Cu
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Supplier Risk & Production Continuity Recommendation System](#) | Rule-based recommendation engine flagging supplier risk to protect production continuity | Python, n8n, dbt, Power BI |
+| [Supplier Risk & Production Continuity Recommendation System](https://github.com/Farzinaayub/Supplier-Risk-Intelligence-system) | Rule-based recommendation engine flagging supplier risk to protect production continuity | Python, n8n, dbt, Power BI |
 | [Customer Segmentation](https://github.com/Farzinaayub/Customer_Segmentation) | K-Means clustering to segment customers for targeted strategy | Python, scikit-learn |
 | [Multi-Agent Blog Writer](https://github.com/Farzinaayub/Multi-Agent-Blog-Writer) | Research → plan → draft → summarize pipeline using specialized AI agents | Python, CrewAI |
 
