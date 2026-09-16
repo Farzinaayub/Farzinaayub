@@ -1,15 +1,15 @@
 # Hi, I'm Farzeena P A 👋
 
-**Data Analyst | Learning Analytics · BI Reporting · Process Automation**
+**Data Analyst | Decision Analytics · BI Reporting · Process Automation**
 
 I turn large operational and learning datasets into decision-ready reporting. Currently analyzing LMS data for 72,000+ students at Schoolnet India, building Power BI dashboards for leadership, and automating recurring reports to cut manual work by ~25 hours/month.
 
-- 🔭 Currently: **Data Analyst – Officer I (Learning Analytics)** at Schoolnet India Limited
-- 🛠️ Core stack: **SQL (MySQL, SQL Server, PostgreSQL) · Power BI (DAX, Power Query) · Excel · Python · Power Automate**
-- 🌱 Extending automation skills with **n8n, dbt** on self-directed projects
-- 📊 Interests: BI dashboards, KPI design, reporting automation, EdTech/people analytics
+- 🔭 Currently: **Data Migration Analyst** at AdComp Systems,TX
+- 🛠️ Core stack: **SQL (MySQL, SQL Server, PostgreSQL) · Power BI (DAX, Power Query) · Excel · Python · Linear Programming · Power Automate**
+- 🌱 Extending Optimization & automation skills with **LP, n8n, dbt** on self-directed projects
+- 📊 Interests: Decision Analytics, Optimization Problems, BI dashboards, KPI design, reporting automation, EdTech/people analytics
 - 📫 Reach me: **farzinaayub266@gmail.com** | [LinkedIn](https://www.linkedin.com/in/farzeena-ayub/)
-- 📍 Based in Dubai, UAE (open to Data Analyst roles — available immediately)
+- 📍 Based in Dubai, UAE (open to Data & Decision Analyst roles — available immediately)
 
 ---
 
